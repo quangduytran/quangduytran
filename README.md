@@ -2,12 +2,12 @@
 
 <img src="img/adam.gif" alt="emoj" width="500" />
 
-<span style="color: red;">
+<span style="color: blue;">
   <pre>
     <code>
  ██████╗ ████████╗ 
 ██╔═══██╗╚══██╔══╝ 
-██║   ██║   ██║     
+██║   ██║   ██║    
 ██║ █ ██║   ██║    
 ╚████████╝  ██║    
  ╚═════╝██  ╚═╝    
